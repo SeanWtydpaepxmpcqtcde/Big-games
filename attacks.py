@@ -15,14 +15,20 @@
 #   (Same as the attack going from the left and the bottom)
 #
 #
-#              ------------------------ < ------ this is wall
-#              |                      |     
-#              |                      |    (bone is at the middleand is going left)
-#              |          *           |  <---------
-#              |       (player)       |
-#              |                      |
-#              |                      |
-#              ------------------------
+#
+#
+#
+#
+# 
+#
+#     Canon 1 -->    ------------------------         
+#     Canon 1 -->    |                      |     
+#     Canon 1 -->    |                      |    
+#     Canon 1 -->    |          *           |  
+#                    |       (player)       |
+#                    |                      |
+#                    |                      |
+#                    ------------------------
 #
 #
 #
