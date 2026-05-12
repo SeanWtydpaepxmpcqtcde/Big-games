@@ -13,13 +13,30 @@
 #              ------------------------
 #
 #   (Same as the attack going from the left and the bottom)
-#
-#
-#
-#
-#
-#
 # 
+#     Attack 2
+#
+#     Canon 1 -->    ------------------------         
+#     Canon 1 -->    |                      |     
+#     Canon 1 -->    |                      |    
+#     Canon 1 -->    |          *           |  
+#                    |       (player)       |
+#                    |                      |
+#                    |                      |
+#                    ------------------------
+#
+#               (1.5 second later)
+#
+#
+#
+#                                CCCCCCCCCCC
+#                                aaaaaaaaaaa
+#                                nnnnnnnnnnn
+#                                ooooooooooo
+#                                nnnnnnnnnnn
+#                                22222222222
+#                                |||||||||||
+#                                vvvvvvvvvvv
 #
 #     Canon 1 -->    ------------------------         
 #     Canon 1 -->    |                      |     
@@ -32,9 +49,11 @@
 #
 #
 #
-#
-#
-#
+
+
+
+
+
 #
 #
 #
